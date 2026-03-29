@@ -1,12 +1,12 @@
-🚀 MSRF-Net
+🚀 MSFR-Net
 
 Multi-Scale Reconstruction Fusion for Visible–Infrared Photovoltaic Defect Detection in UAV Remote Sensing Imagery
 📌 Overview
 
-MSRF-Net is a multimodal object detection framework designed for photovoltaic (PV) defect detection in UAV-based remote sensing imagery. It leverages multi-scale reconstruction fusion to effectively model cross-modal interactions between visible (RGB) and infrared (IR) data, achieving robust performance under complex aerial conditions.
+MSFR-Net is a multimodal object detection framework designed for photovoltaic (PV) defect detection in UAV-based remote sensing imagery. It leverages multi-scale reconstruction fusion to effectively model cross-modal interactions between visible (RGB) and infrared (IR) data, achieving robust performance under complex aerial conditions.
 
 ✨ Key Features
-🔥 Multi-Scale Reconstruction Fusion
+🔥 Multi-Scale Feature Reconstruction
 Unified framework for cross-modal feature reconstruction and interaction
 🔗 CSGAFusion Module
 Cross-Similarity Gated Attention for adaptive fusion of shared and complementary features
